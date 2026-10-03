@@ -13,6 +13,6 @@ Here's the thing: I like building things that actually work. I'm a student at We
 
 ### 📊 The Numbers
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ptandreiul&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptandreiul&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
